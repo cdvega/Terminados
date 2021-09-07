@@ -1,0 +1,318 @@
+﻿{
+	"Animales": [
+		{
+			"id": 1,
+			"nombre": "PERRO"
+		},
+		{
+			"id": 2,
+			"nombre": "GATO"
+		},
+		{
+			"id": 3,
+			"nombre": "CABALLO"
+		},
+		{
+			"id": 4,
+			"nombre": "DINOSAURIO"
+		},
+		{
+			"id": 5,
+			"nombre": "CERNICALO"
+		},
+		{
+			"id": 6,
+			"nombre": "MONO"
+		},
+		{
+			"id": 7,
+			"nombre": "GORILA"
+		},
+		{
+			"id": 8,
+			"nombre": "ELEFANTE"
+		},
+		{
+			"id": 9,
+			"nombre": "RANA"
+		},
+		{
+			"id": 10,
+			"nombre": "TIBURON"
+		},
+		{
+			"id": 11,
+			"nombre": "MURCIELAGO"
+		},
+		{
+			"id": 12,
+			"nombre": "PAJARO"
+		},
+		{
+			"id": 13,
+			"nombre": "PAVO"
+		},
+		{
+			"id": 14,
+			"nombre": "PATO"
+		},
+		{
+			"id": 15,
+			"nombre": "RINOCERONTE"
+		},
+		{
+			"id": 16,
+			"nombre": "CEBRA"
+		},
+		{
+			"id": 17,
+			"nombre": "JIRAFA"
+		},
+		{
+			"id": 18,
+			"nombre": "VACA"
+		},
+		{
+			"id": 19,
+			"nombre": "OVEJA"
+		},
+		{
+			"id": 20,
+			"nombre": "CABRA"
+		}
+	],
+	"Partes del cuerpo": [
+		{
+			"id": 1,
+			"nombre": "CABEZA"
+		},
+		{
+			"id": 2,
+			"nombre": "OJO"
+		},
+		{
+			"id": 3,
+			"nombre": "BOCA"
+		},
+		{
+			"id": 4,
+			"nombre": "OREJA"
+		},
+		{
+			"id": 5,
+			"nombre": "MANO"
+		},
+		{
+			"id": 6,
+			"nombre": "NARIZ"
+		},
+		{
+			"id": 7,
+			"nombre": "PIE"
+		},
+		{
+			"id": 8,
+			"nombre": "BRAZO"
+		},
+		{
+			"id": 9,
+			"nombre": "PIERNA"
+		},
+		{
+			"id": 10,
+			"nombre": "CULO"
+		},
+		{
+			"id": 11,
+			"nombre": "RODILLA"
+		},
+		{
+			"id": 12,
+			"nombre": "HOMBRO"
+		},
+		{
+			"id": 13,
+			"nombre": "CUELLO"
+		},
+		{
+			"id": 14,
+			"nombre": "DEDO"
+		},
+		{
+			"id": 15,
+			"nombre": "CODO"
+		},
+		{
+			"id": 16,
+			"nombre": "UÑA"
+		},
+		{
+			"id": 17,
+			"nombre": "FRENTE"
+		},
+		{
+			"id": 18,
+			"nombre": "CEJA"
+		},
+		{
+			"id": 19,
+			"nombre": "LABIO"
+		},
+		{
+			"id": 20,
+			"nombre": "ESPALDA"
+		}
+	],
+	"Colores": [
+		{
+			"id": 1,
+			"nombre": "VERDE"
+		},
+		{
+			"id": 2,
+			"nombre": "NEGRO"
+		},
+		{
+			"id": 3,
+			"nombre": "ROJO"
+		},
+		{
+			"id": 4,
+			"nombre": "AZUL"
+		},
+		{
+			"id": 5,
+			"nombre": "AMARILLO"
+		},
+		{
+			"id": 6,
+			"nombre": "BLANCO"
+		},
+		{
+			"id": 7,
+			"nombre": "ROSA"
+		},
+		{
+			"id": 8,
+			"nombre": "MARRON"
+		},
+		{
+			"id": 9,
+			"nombre": "GRIS"
+		},
+		{
+			"id": 10,
+			"nombre": "VIOLETA"
+		},
+		{
+			"id": 11,
+			"nombre": "MORADO"
+		},
+		{
+			"id": 12,
+			"nombre": "CELESTE"
+		},
+		{
+			"id": 13,
+			"nombre": "NARANJA"
+		},
+		{
+			"id": 14,
+			"nombre": "CASTAÑO"
+		},
+		{
+			"id": 15,
+			"nombre": "LILA"
+		},
+		{
+			"id": 16,
+			"nombre": "DORADO"
+		},
+		{
+			"id": 17,
+			"nombre": "CARNE"
+		}
+	],
+	"Comidas y bebidas": [
+		{
+			"id": 1,
+			"nombre": "POLLO"
+		},
+		{
+			"id": 2,
+			"nombre": "PIZZA"
+		},
+		{
+			"id": 3,
+			"nombre": "MACARRONES"
+		},
+		{
+			"id": 4,
+			"nombre": "PESCADO"
+		},
+		{
+			"id": 5,
+			"nombre": "ZUMO"
+		},
+		{
+			"id": 6,
+			"nombre": "AGUA"
+		},
+		{
+			"id": 7,
+			"nombre": "LECHE"
+		},
+		{
+			"id": 8,
+			"nombre": "GALLETAS"
+		},
+		{
+			"id": 9,
+			"nombre": "HELADO"
+		},
+		{
+			"id": 10,
+			"nombre": "YOGUR"
+		},
+		{
+			"id": 11,
+			"nombre": "TARTA"
+		},
+		{
+			"id": 12,
+			"nombre": "ENSALADA"
+		},
+		{
+			"id": 13,
+			"nombre": "FRUTA"
+		},
+		{
+			"id": 14,
+			"nombre": "CARNE"
+		},
+		{
+			"id": 15,
+			"nombre": "SOPA"
+		},
+		{
+			"id": 16,
+			"nombre": "PURE"
+		},
+		{
+			"id": 17,
+			"nombre": "ARROZ"
+		},
+		{
+			"id": 18,
+			"nombre": "SUSHI"
+		},
+		{
+			"id": 19,
+			"nombre": "PATATAS"
+		},
+		{
+			"id": 20,
+			"nombre": "HAMBURGUESA"
+		}
+	]
+}
